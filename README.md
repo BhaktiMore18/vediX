@@ -26,8 +26,7 @@ flowchart TD
 
 ## Chapters
 
-1. [Chat Session State
-](01_chat_session_state_.md)
+1. [Chat Session State](Chat_Session_State.md)
 2. [Streamlit Chat Interface
 ](02_streamlit_chat_interface_.md)
 3. [Ollama Model Client
