@@ -15,7 +15,7 @@ client = Client(
     }
 )
 
-st.title("Raj's vediX")
+st.title("Raj's vediX: Ollama chatbot")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []  
